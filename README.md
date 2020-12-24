@@ -43,6 +43,11 @@ After these changes you should be able to run:
     
 # Usage
 
+#### Add Internet Permission in Manifest
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+### Make a network call
     iOnDataFetched onDataFetched;
     
     TaskRunner runner = new TaskRunner();

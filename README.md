@@ -74,4 +74,4 @@ dependencies {
         Log.d(TAG,jsonData);
     }
     
-<a href="https://www.buymeacoffee.com/monusk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="monusk" data-color="#5F7FFF" data-emoji="📖"  data-font="Comic" data-text="Buy me a book" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>

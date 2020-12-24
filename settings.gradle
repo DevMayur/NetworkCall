@@ -1,0 +1,3 @@
+include ':NetworkCall'
+include ':app'
+rootProject.name = "NewsApp"

@@ -47,7 +47,7 @@ After these changes you should be able to run:
 
     <uses-permission android:name="android.permission.INTERNET"/>
 
-### Make a network call
+#### Make a network call
     iOnDataFetched onDataFetched;
     
     TaskRunner runner = new TaskRunner();
@@ -71,7 +71,7 @@ After these changes you should be able to run:
             }
         };
         
-# Process Data 
+#### Process Data 
     public static String TAG = "NetworkTask";
     
     private void processData(String jsonData) {
